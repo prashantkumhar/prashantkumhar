@@ -1,21 +1,33 @@
-<h1 align="center">Hi 👋, I'm Prashant kumhar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I’m **Prashant Kumhar**
+- 🔭 Currently working as a **Frontend Developer** at **[Grid Dynamics](https://www.griddynamics.com/)**
+- 💻 Passionate about building engaging and interactive UIs
+- Always learning new things 📚, occasionally breaking things 💥😅, but mostly fixing them with code 💻🫡
 
-- 🔭 I'm currently working on **ChatGpt clone**
+- 👨‍💻 Check out my projects on GitHub: [prashantkumhar](https://github.com/prashantkumhar)
+- 💬 Ask me about **Next.js**, **React**, **TypeScript**, and **JavaScript**
+- ⚡ Fun fact: I can play **cricket** all day
 
-- 🌱 I'm currently learning **Angular, Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prashantkumhar](https://github.com/prashantkumhar)
+### Education:
+🎓 **B.Tech in [Electrical Engineering]**  
+📍 **MNNIT Allahabad** <br>
+🗓️ **Graduation Year:** [2023]  
+- Focus on **Web Development, Algorithms, Data Structures**
 
-- 💬 Ask me about **Next.JS, React, Typescript, Javascript**
 
-- 📫 How to reach me **prashntkumhar98@gmail.com**
+---
 
-- ⚡ Fun fact **I can play cricket all day**
+### Connect with me:
+<p align="left" style="display: flex; gap: 20px;">
+  <a href="https://in.linkedin.com/in/prashant-kumhar-55b0a11a9" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+   <a href="https://github.com/prashantkumhar" target="_blank">
+    <img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="GitHub" width="100" height="30" />
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/prashant-kumhar-55b0a11a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/prashant-kumhar-55b0a11a9" height="30" width="40" /></a>
+---
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
