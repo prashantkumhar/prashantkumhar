@@ -1,6 +1,5 @@
 # 👋 Hi, I’m **Prashant Kumhar**
-- 🔭 Currently working as a **Frontend Developer** at **[Grid Dynamics](https://www.griddynamics.com/)**
-- 💻 Passionate about building engaging and interactive UIs
+- 🔭 Currently working as a **UI Software Engineer** at **Grid Dynamics**
 - Always learning new things 📚, occasionally breaking things 💥😅, but mostly fixing them with code 💻🫡
 
 - 👨‍💻 Check out my projects on GitHub: [prashantkumhar](https://github.com/prashantkumhar)
