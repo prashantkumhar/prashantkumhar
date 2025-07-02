@@ -1,27 +1,22 @@
 # 👋 Hi, I’m **Prashant Kumhar**
 - 🔭 Currently working as a **UI Software Engineer** at **Grid Dynamics**
-- Always learning new things 📚, occasionally breaking things 💥😅, but mostly fixing them with code 💻🫡
-
-- 👨‍💻 Check out my projects on GitHub: [prashantkumhar](https://github.com/prashantkumhar)
 - 💬 Ask me about **Next.js**, **React**, **TypeScript**, and **JavaScript**
-- ⚡ Fun fact: I can play **cricket** all day
 
 
 ### Education:
 🎓 **B.Tech in [Electrical Engineering]**  
 📍 **MNNIT Allahabad** <br>
 🗓️ **Graduation Year:** [2023]  
-- Focus on **Web Development, Algorithms, Data Structures**
 
 
 ---
 
 ### Connect with me:
-<p align="left" style="display: flex; gap: 20px;">
+<p align="left" style="display: flex; gap: 20px;" gap="20px">
   <a href="https://in.linkedin.com/in/prashant-kumhar-55b0a11a9" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-   <a href="https://github.com/prashantkumhar" target="_blank">
+   <a href="https://github.com/prashantkumhar" target="_blank" >
     <img src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png" alt="GitHub" width="100" height="30" />
   </a>
 </p>
